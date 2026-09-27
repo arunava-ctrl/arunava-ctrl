@@ -1,8 +1,10 @@
 # Hi, I'm Arunava 👋
 
-I'm a fresher looking to break into the games industry, focused on **QA testing** and **3D art & animation**. I have a sharp eye for spotting bugs.
+I'm new to this and making new things with the help of AI 🤖, learning something new every day.
 
-🌱 I'm also new to **designing web apps** and **building AI agents**, and I'm learning by making things.
+🎮 I'm into **game development in Unreal Engine** — building levels, environments and gameplay, plus **3D art & animation** in Maya and Blender.
+
+🌱 Right now I'm also exploring **web app design** and **building AI agents**, learning by making things.
 
 **Tools:** Unreal Engine · Maya · Blender
 
