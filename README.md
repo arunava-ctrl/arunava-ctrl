@@ -4,7 +4,7 @@ I'm new to this and making new things with the help of AI 🤖, learning somethi
 
 🎮 I'm into **game development in Unreal Engine** — building levels, environments and gameplay, plus **3D art & animation** in Maya and Blender.
 
-🌱 Right now I'm also exploring **web app design** ** android apk** and **building AI agents**, learning by making things.
+🌱 Right now I'm also exploring **web app design** android apk and **building AI agents**, learning by making things.
 
 **Tools:** Unreal Engine · Maya · Blender
 
